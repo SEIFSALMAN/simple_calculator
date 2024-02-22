@@ -1,4 +1,4 @@
-# cv_projects
+# Simple_Calculator
 
 A new Flutter project.
 
