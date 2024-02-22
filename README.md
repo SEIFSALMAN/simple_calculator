@@ -1,6 +1,8 @@
 # Simple_Calculator
 
-A new Flutter project.
+An application for simple calculations and have more operation in landscape as it has two orientation.
+but unfortunatley the other trig. operations and log ones doesn't work logically
+it also has light and dark mode and has history for the past calculations.
 
 ## Getting Started
 
